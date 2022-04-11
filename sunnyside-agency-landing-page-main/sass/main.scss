@@ -1,0 +1,24 @@
+// Reset
+@import url('reset.scss');
+
+// Fonts
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@700;900&display=swap');
+
+// Colors
+
+// Primary
+$color-softred: hsl(7, 99%, 70%);
+$color-yellow: hsl(51, 100%, 49%);
+$color-dedarkcyan: hsl(167, 40%, 24%); // graphic design text
+$color-darkblue: hsl(198, 62%, 26%); // photography text
+$color-modarkcyan: hsl(168, 34%, 41%);
+
+// Neutral
+$color-verydarkdeblue: hsl(212, 27%, 19%);
+$color-verydarkgrablue: hsl(213, 9%, 39%);
+$color-darkgrablue: hsl(232, 10%, 55%);
+$color-grablue: hsl(210, 4%, 67%);
+$color-white: hsl(0, 0%, 100%);
+
+
